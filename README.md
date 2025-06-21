@@ -34,7 +34,7 @@ The Weather App enables users to:
 
 
 
-  What I Learned:
+What I Learned:
 
 - How to integrate third-party APIs (OpenWeatherMap)
 - Handling asynchronous requests using `fetch()`
@@ -43,7 +43,7 @@ The Weather App enables users to:
 
 
 
-  How to Run the Project:
+How to Run the Project:
 
 1. Clone or download this repository  
 2. Open `index.html` in any web browser  
