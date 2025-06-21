@@ -3,7 +3,6 @@
 This project was developed as part of the **Web Development Internship** at **Prodigy InfoTech**.  
 The goal of **Task 05** is to create a dynamic **Weather App** that fetches and displays real-time weather data using a weather API.
 
-
 Task Description:
 
 The Weather App enables users to:
